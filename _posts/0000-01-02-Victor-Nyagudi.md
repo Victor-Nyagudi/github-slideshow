@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your Text 
+You learn something new every day.
 Use the left arrow to go back!
